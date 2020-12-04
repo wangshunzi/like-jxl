@@ -1,52 +1,165 @@
-# Prerequisites
-*.d
+# Numerous always-ignore extensions  
 
-# Object files
-*.o
-*.ko
-*.obj
-*.elf
 
-# Linker output
-*.ilk
-*.map
-*.exp
 
-# Precompiled Headers
-*.gch
-*.pch
+*.bak  
 
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
 
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
 
-# Executables
-*.exe
-*.out
-*.app
-*.i*86
-*.x86_64
-*.hex
+*.patch  
 
-# Debug files
-*.dSYM/
-*.su
-*.idb
-*.pdb
 
-# Kernel Module Compile Results
-*.mod*
-*.cmd
-.tmp_versions/
-modules.order
-Module.symvers
-Mkfile.old
-dkms.conf
+
+*.diff  
+
+
+
+*.err  
+
+
+
+
+
+
+
+# temp file for git conflict merging  
+
+
+
+*.orig  
+
+
+
+*.log  
+
+
+
+*.rej  
+
+
+
+*.swo  
+
+
+
+*.swp  
+
+
+
+*.zip  
+
+
+
+*.vi  
+
+
+
+*~  
+
+
+
+*.sass-cache  
+
+
+
+*.tmp.html  
+
+
+
+*.dump  
+
+
+
+
+
+
+
+# OS or Editor folders  
+
+
+
+.DS_Store  
+
+
+
+._*  
+
+
+
+.cache  
+
+
+
+.project  
+
+
+
+.settings  
+
+
+
+.tmproj  
+
+
+
+*.esproj  
+
+
+
+*.sublime-project  
+
+
+
+*.sublime-workspace  
+
+
+
+nbproject  
+
+
+
+thumbs.db  
+
+
+
+*.iml  
+
+
+
+
+
+
+
+# Folders to ignore  
+
+
+
+.hg  
+
+
+
+.svn  
+
+
+
+.CVS  
+
+
+
+.idea  
+
+
+
+node_modules/  
+
+
+
+jscoverage_lib/  
+
+
+
+bower_components/  
+
+
+
+dist/
